@@ -15,3 +15,7 @@ ASP.NET Core no Back-end.
 2. Move yourself to the appropriate directory: `cd project_school`<br />
 3. Run `npm` to install dependencies<br />
 4. Run `lerna bootstrap` to install the packages dependecies
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
